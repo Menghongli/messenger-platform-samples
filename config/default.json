@@ -2,5 +2,5 @@
     "appSecret": "529712b8dec2155da2f29feae6f2eac9",
     "pageAccessToken": "EAADI2YzCCl8BANstqCEB5bavfp3xsdyZAFKetZB3vAoncfyi1n4uod6Sl6zpNSWUplkXt4ow53UIL6ELWGDlM87AlMwA4pewO30ZCD3cbTkJ5WZCYBJZCRskY1iOXCCnCvLCXd6JZCfZBm4t4pRF6a7G5VaEkh2Ok7oEsHGVZBZAk9wZDZD",
     "validationToken": "my_voice_is_my_password_verify_me",
-    "serverURL": ""
+    "serverURL": "https://morning-cliffs-29687.herokuapp.com/"
 }
